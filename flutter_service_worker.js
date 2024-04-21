@@ -8,8 +8,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "d7b70e9a25ddc52e795576441c51a38d
 "assets/AssetManifest.json": "5e85e1c8eac48848ca66a6b926e6b3a2",
 "assets/assets/nav_drawer_logo.png": "a01a2f6fa6af220b1acd83a36b50155e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "c233ad3cc44a8a4f8fd6eb7864318d9d",
-"assets/NOTICES": "6b00c144e633e214b8c96662e44593b2",
+"assets/fonts/MaterialIcons-Regular.otf": "210d0ec2e26e00d6f57f22d93ab32fab",
+"assets/NOTICES": "b19d7d0379d0330b2f91b83c15be4538",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
@@ -29,10 +29,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "d7b70e9a25ddc52e795576441c51a38d
 "icons/Icon-512.png": "8bd7a6d443b326cbcf957217ea4be8d6",
 "icons/Icon-maskable-192.png": "292389d091615bb737a5b72d09149f82",
 "icons/Icon-maskable-512.png": "7201d950a786b0b09ac667bffc194a67",
-"index.html": "ef74e089a33b41c7c04cecdca0b492fc",
-"/": "ef74e089a33b41c7c04cecdca0b492fc",
-"main.dart.js": "b31cf382f7f6d5415cf23828655162c3",
-"manifest.json": "309eb86908f328de155821073faad9bc",
+"index.html": "95a2cb978fffbc23381b66bd9cc1a997",
+"/": "95a2cb978fffbc23381b66bd9cc1a997",
+"main.dart.js": "a56b3c67c4ac36f777d5f8df55a8ff02",
+"manifest.json": "82afccb861c27223a2f8063c5c3aaddd",
 "version.json": "54e06bfb911de46b32706f7718e071bc"};
 // The application shell files that are downloaded before a service worker can
 // start.
