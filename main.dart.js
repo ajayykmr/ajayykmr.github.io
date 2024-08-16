@@ -67600,7 +67600,7 @@ A.LQ.prototype={
 R(a){var s
 A.aut(B.x2)
 s=$.amy().a3V(A.asF(A.bk(a).p2))
-return new A.vc(A.fK(A.HM(B.V,A.a([B.Fa,new A.fv(new A.a7o(this),null)],t.p),B.ac,B.fz),B.cU,new A.a7p(),new A.a7q(),new A.a7r(this),!1),"Portfolio",s,null)}}
+return new A.vc(A.fK(A.HM(B.V,A.a([B.Fa,new A.fv(new A.a7o(this),null)],t.p),B.ac,B.fz),B.cU,new A.a7p(),new A.a7q(),new A.a7r(this),!1),"Ajay Kumar",s,null)}}
 A.a7p.prototype={
 $1(a){},
 $S:21}
